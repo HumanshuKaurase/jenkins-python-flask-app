@@ -134,22 +134,7 @@ docker build -t flask-docker-image .
 docker run -d -p 5000:5000 --name flask-app flask-docker-image
 docker image ls
 ```
-
----
-
-## 🖼️ Screenshot Gallery
-
-| 📸 Step                         | Preview                                 |
-|----------------------------------|---------------------------------------- |             |
-| 4️⃣ Webhook Delivery Success     | ![Webhook Done](./webhook_done.png)     |
-| 5️⃣ Shell Script Execution       | ![Shell](<img width="1895" height="940" alt="Screenshot 2025-08-04 232459" src="https://github.com/user-attachments/assets/c917c857-1325-4120-812e-b5c4fc9fb698" />
-)                |
-| 6️⃣ Jenkins Job Console Output   | ![Console Output](<img width="1919" height="968" alt="Screenshot 2025-08-04 232325" src="https://github.com/user-attachments/assets/37b7b310-d3ed-4c15-8dca-67995e9581bb" />
-) |
-| 7️⃣ Web App Running              | ![Web](<img width="1919" height="958" alt="Screenshot 2025-08-04 232354" src="https://github.com/user-attachments/assets/d992d256-7481-481f-bea7-b46055b2f547" />
-)                  |
-
----
+--
 
 ## 🔍 What I Learned
 
